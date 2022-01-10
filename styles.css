@@ -1,0 +1,24 @@
+h1 {
+    background-color: rgba(243, 201, 124, 0.993);
+    color:rgb(39, 37, 37);
+    font-family: "Arial";
+}
+
+h2{
+    background-color: rgba(246, 239, 170, 0.993);
+    color:rgb(39, 37, 37);
+    font-family: "Arial";    
+}
+
+.recipelist:hover{
+    background-color: yellow;
+}
+
+.recipelist .recipe:hover{
+    color:red;
+}
+
+img.foodcover{
+    width: 500px;
+    height: auto;
+}
